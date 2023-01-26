@@ -6,6 +6,11 @@ body {
     
 }
 
+.card{
+    width: 470px;
+    box-shadow: 10px 10px 20px gray;
+}
+
 .input{
     border-radius: 50px;
 }
